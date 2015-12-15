@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Module_EditorProduct>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Module_EditorProduct>
+    </modules>
+</config>

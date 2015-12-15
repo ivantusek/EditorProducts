@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config>
+    <menu>
+        <module_editorproduct translate="title" module="module_editorproduct">
+            <title>Editor</title>
+            <sort_order>100</sort_order>
+            <children>
+                <products translate="title" module="module_editorproduct">
+                    <title>Products</title>
+                    <sort_order>100</sort_order>
+                   <action>adminhtml/module_editorproduct_products</action> 
+                </products>
+            </children>
+        </module_editorproduct>
+    </menu>
+</config>
